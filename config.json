@@ -16,5 +16,8 @@
         "user": "root",
         "password": "123456",
         "charset": "utf8mb4"
-    }
+    },
+    "gdrive_root": "your gdrive_root",
+    "aws_access_key_id": "your aws_access_key_id",
+    "aws_secret_access_key": "your aws_secret_access_key"
 }
