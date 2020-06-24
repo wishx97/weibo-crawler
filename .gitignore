@@ -1,0 +1,8 @@
+.env
+env/
+weibo/
+.vscode/
+__pycache__/
+config.json
+mycreds.txt
+client_secrets.json
